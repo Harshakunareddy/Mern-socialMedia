@@ -19,8 +19,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm run"
+    "test": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
